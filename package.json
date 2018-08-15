@@ -1,0 +1,11 @@
+{
+    "name": "@types/html2canvas",
+    "version": "0.0.30",
+    "description": "TypeScript definitions for html2canvas",
+    "license": "MIT",
+    "main": "",
+    "scripts": {},
+    "dependencies": {},
+    "peerDependencies": {},
+    "typeScriptVersion": "2.0"
+}
