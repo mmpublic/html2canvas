@@ -1,3 +1,3 @@
-import html2canvas from 'html2canvas';
+import vuedraggable from 'vuedraggable';
 
-export = html2canvas
+export = vuedraggable;

@@ -1,7 +1,7 @@
 {
-    "name": "@types/html2canvas",
+    "name": "@types/vuedraggable",
     "version": "0.0.30",
-    "description": "TypeScript definitions for html2canvas",
+    "description": "TypeScript definitions for vuedraggable",
     "license": "MIT",
     "main": "",
     "scripts": {},
