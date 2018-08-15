@@ -15,3 +15,4 @@ Additional Details
 # Credits
 These definitions were written by Seon-Wook Park <https://github.com/swook>, Gal Talmor <https://github.com/galtalmor>, John McLaughlin <https://github.com/zamb3zi>.
 # html2canvas
+# vuedraggable
